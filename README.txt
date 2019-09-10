@@ -1,0 +1,1 @@
+The nihongo folder/repository is meant for containing bits of code to help with learning Japanese.
